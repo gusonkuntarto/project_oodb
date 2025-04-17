@@ -18,4 +18,20 @@ A simple Java command-line application using **db4o** (Database for Objects) to 
 ---
 
 ## 📁 Folder Structure
+├── src/ │ ├── Address.java │ ├── Person.java │ ├── MyApps.java │ └── QueryAll.java ├── db/ │ └── person.db4o
+
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+- Java JDK 1.8
+- [db4o jar](https://sourceforge.net/projects/db4o/) (included or downloaded manually)
+
+### Run the App
+
+```bash
+javac -cp .;lib/db4o-8.0.249.16098-all-java5.jar src/*.java
+java -cp .;lib/db4o-8.0.249.16098-all-java5.jar src.MyApps
 
