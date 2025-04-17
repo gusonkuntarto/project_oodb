@@ -15,17 +15,7 @@ A simple Java command-line application using **db4o** (Database for Objects) to 
 - Manual transaction management
 - CLI-based interface
 
----
-
-## 📁 Folder Structure
-├── src/ 
-│ ├── Address.java 
-│ ├── Person.java 
-│ ├── MyApps.java 
-│ └── QueryAll.java 
-├── db/ 
-│ └── person.db4o
----
+--
 
 ## 🚀 Getting Started
 
