@@ -25,7 +25,6 @@ A simple Java command-line application using **db4o** (Database for Objects) to 
 │ └── QueryAll.java 
 ├── db/ 
 │ └── person.db4o
-
 ---
 
 ## 🚀 Getting Started
